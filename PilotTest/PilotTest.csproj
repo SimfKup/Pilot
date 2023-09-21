@@ -8,35 +8,35 @@
 
 
 
-    <ItemGroup>
-      <Reference Include="Ascon.Pilot.Client">
-        <HintPath>..\..\..\..\..\Program Files\ASCON\Pilot-ICE Enterprise\Ascon.Pilot.Client.dll</HintPath>
-      </Reference>
-      <Reference Include="Ascon.Pilot.ClientCore">
-        <HintPath>..\..\..\..\..\Program Files\ASCON\Pilot-ICE Enterprise\Ascon.Pilot.ClientCore.dll</HintPath>
-      </Reference>
-      <Reference Include="Ascon.Pilot.Common">
-        <HintPath>..\..\..\..\..\Program Files\ASCON\Pilot-ICE Enterprise\Ascon.Pilot.Common.dll</HintPath>
-      </Reference>
-      <Reference Include="Ascon.Pilot.Core">
-        <HintPath>..\..\..\..\..\Program Files\ASCON\Pilot-ICE Enterprise\Ascon.Pilot.Core.dll</HintPath>
-      </Reference>
-      <Reference Include="Ascon.Pilot.DataClasses">
-        <HintPath>..\..\..\..\..\Program Files\ASCON\Pilot-ICE Enterprise\Ascon.Pilot.DataClasses.dll</HintPath>
-      </Reference>
-      <Reference Include="Ascon.Pilot.Pilot">
-        <HintPath>..\..\..\..\..\Program Files\ASCON\Pilot-ICE Enterprise\Ascon.Pilot.Pilot.dll</HintPath>
-      </Reference>
-      <Reference Include="Ascon.Pilot.ProjectionsRepository">
-        <HintPath>..\..\..\..\..\Program Files\ASCON\Pilot-ICE Enterprise\Ascon.Pilot.ProjectionsRepository.dll</HintPath>
-      </Reference>
-      <Reference Include="DevExpress.XtraReports.v20.1">
-        <HintPath>..\..\..\..\..\Program Files\ASCON\Pilot-ICE Enterprise\DevExpress.XtraReports.v20.1.dll</HintPath>
-      </Reference>
-      <Reference Include="DevExpress.XtraReports.v20.1.Extensions">
-        <HintPath>..\..\..\..\..\Program Files\ASCON\Pilot-ICE Enterprise\DevExpress.XtraReports.v20.1.Extensions.dll</HintPath>
-      </Reference>
-    </ItemGroup>
+<!--    <ItemGroup>-->
+<!--      <Reference Include="Ascon.Pilot.Client">-->
+<!--        <HintPath>..\..\..\..\..\Program Files\ASCON\Pilot-ICE Enterprise\Ascon.Pilot.Client.dll</HintPath>-->
+<!--      </Reference>-->
+<!--      <Reference Include="Ascon.Pilot.ClientCore">-->
+<!--        <HintPath>..\..\..\..\..\Program Files\ASCON\Pilot-ICE Enterprise\Ascon.Pilot.ClientCore.dll</HintPath>-->
+<!--      </Reference>-->
+<!--      <Reference Include="Ascon.Pilot.Common">-->
+<!--        <HintPath>..\..\..\..\..\Program Files\ASCON\Pilot-ICE Enterprise\Ascon.Pilot.Common.dll</HintPath>-->
+<!--      </Reference>-->
+<!--      <Reference Include="Ascon.Pilot.Core">-->
+<!--        <HintPath>..\..\..\..\..\Program Files\ASCON\Pilot-ICE Enterprise\Ascon.Pilot.Core.dll</HintPath>-->
+<!--      </Reference>-->
+<!--      <Reference Include="Ascon.Pilot.DataClasses">-->
+<!--        <HintPath>..\..\..\..\..\Program Files\ASCON\Pilot-ICE Enterprise\Ascon.Pilot.DataClasses.dll</HintPath>-->
+<!--      </Reference>-->
+<!--      <Reference Include="Ascon.Pilot.Pilot">-->
+<!--        <HintPath>..\..\..\..\..\Program Files\ASCON\Pilot-ICE Enterprise\Ascon.Pilot.Pilot.dll</HintPath>-->
+<!--      </Reference>-->
+<!--      <Reference Include="Ascon.Pilot.ProjectionsRepository">-->
+<!--        <HintPath>..\..\..\..\..\Program Files\ASCON\Pilot-ICE Enterprise\Ascon.Pilot.ProjectionsRepository.dll</HintPath>-->
+<!--      </Reference>-->
+<!--      <Reference Include="DevExpress.XtraReports.v20.1">-->
+<!--        <HintPath>..\..\..\..\..\Program Files\ASCON\Pilot-ICE Enterprise\DevExpress.XtraReports.v20.1.dll</HintPath>-->
+<!--      </Reference>-->
+<!--      <Reference Include="DevExpress.XtraReports.v20.1.Extensions">-->
+<!--        <HintPath>..\..\..\..\..\Program Files\ASCON\Pilot-ICE Enterprise\DevExpress.XtraReports.v20.1.Extensions.dll</HintPath>-->
+<!--      </Reference>-->
+<!--    </ItemGroup>-->
 
 
 

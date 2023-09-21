@@ -38,4 +38,10 @@
       </Reference>
     </ItemGroup>
 
+
+
+    <ItemGroup>
+      <Folder Include="PilotDll\" />
+    </ItemGroup>
+
 </Project>
